@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bekti NUN Ibrahim - XI RPL 1</title>
+    </head>
+    <body style="font-family: Arial Narrow;">
+        <img src="img/1.jpg" width="350px" height="250px">
+        <h1 style="color: Tomato;">Bekti Nun Ibrahim</h1>
+        <a href="https://github.com/bekti020103/BeuktiPunya"><h5><em>github.com</em></h5></a>
+        <p>
+            <strong>Bekti Nun Ibrahim</strong> (lahir 02 Januari 2003; umur 16 tahun)
+            saya pelajar <u> SMK Negeri 1 Subang </u> di sekolah saya sambil berniaga
+            Kejuruan saya Rekayasa Perangkat Lunak (RPL)
+        </p>
+        <h1>Biografi :</h1>
+        <ul>
+            <li>Nama Lengkap : Bekti Nun Ibrahim</li>
+            <li>Tempat Tanggal Lahir : Subang, 02 Januari 2003</li>
+            <li>Pendidikan Terakhir : SMK Negeri 1 Subang</li>
+            <li>Warga Negara : Indonesia</li>
+            <li>Status : Single / Jomblo</li>
+            <!-- <li>Status : Single / Jomblo</li> --> <!-- Ket : Sembunyikan dulu dong status mah -->
+        </ul>
+    </body>
+</html>
